@@ -5,6 +5,8 @@
 
 -SIMPLE
 
+-Donasi untuk membuka fitur premium aja biar bisa nambahin buat apgred pc
+
 # INSTALLING
 -pkg update upgrade
 
