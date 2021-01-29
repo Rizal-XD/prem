@@ -6,24 +6,30 @@
 - TAMBAHAN MRNU (LIHAT HASIL CRACK TANPA RIBET)
 
 # prem
--LOGIN COOKIES ONLY
+- LOGIN COOKIES ONLY
 
--2 METHODE CRACK (GRAPH API, M.FACEBOOK.COM)
+- 2 METHODE CRACK : (GRAPH API, M.FACEBOOK.COM)
 
--SIMPLE
-
--Donasi untuk membuka fitur premium aja biar bisa nambahin buat apgred pc
+- Donasi untuk membuka fitur premium aja biar bisa nambahin buat apgred pc
 
 # INSTALLING
--pkg update upgrade
+- pkg update upgrade
 
--pkg install python2 git
+- pkg install python2 git
 
--git clone https://github.com/Rizal-XD/prem
+- git clone https://github.com/Rizal-XD/prem
 
--cd prem
+- cd prem
 
--pip2 install requests,bs4,mechanize
+- pip2 install requests
 
--python2 run.py
+- pip2 install requests
+
+- pip2 install bs4
+
+- pip2 install futures
+
+- pip2 install mechanize
+
+- python2 run.py
 
