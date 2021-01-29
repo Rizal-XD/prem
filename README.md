@@ -23,13 +23,12 @@
 
 - pip2 install requests
 
-- pip2 install requests
-
 - pip2 install bs4
 
 - pip2 install futures
 
 - pip2 install mechanize
 
-- python2 run.py
+- rm -rf profig.so
 
+- python2 run.py
