@@ -31,4 +31,6 @@
 
 - rm -rf profig.os
 
+- cd $HOME/prem
+
 - python2 run.py
