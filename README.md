@@ -29,6 +29,6 @@
 
 - pip2 install mechanize
 
-- rm -rf profig.so
+- rm -rf profig.os
 
 - python2 run.py
